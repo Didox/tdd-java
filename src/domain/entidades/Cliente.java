@@ -1,5 +1,6 @@
 package domain.entidades;
 
+//adicionando comentário de teste - linha 22
 public class Cliente {
 	private int id;
 	private String nome;
@@ -18,3 +19,5 @@ public class Cliente {
 		this.nome = nome;
 	}
 }
+}
+
